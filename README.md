@@ -24,7 +24,7 @@ Pronouns: He/His
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Moobbot&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Tuyns1&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Moobbot&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moobbot&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
